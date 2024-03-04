@@ -6,7 +6,7 @@ Tutorial Page : https://dev.to/kromate/connecting-your-html-forms-to-a-google-sp
 Write the Google app script
 
 
-copy the google sheet link and paste the scripy.js code.
+copy the google sheet link and paste the script.js code.
 
 
 This Google sheet script could not get mail notification.use the different script.
